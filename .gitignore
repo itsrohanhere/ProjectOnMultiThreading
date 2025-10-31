@@ -2,7 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea/
+.idea
+ProjectOnMultiThreading.iml
+
 
 ### Eclipse ###
 .apt_generated
